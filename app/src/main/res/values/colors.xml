@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_dark">#FF121212</color>
+    <color name="surface_dark">#FF1E1E1E</color>
+
+    <!-- Material "teal 700" - verified >= 4.5:1 contrast with white text -->
+    <color name="primary_teal">#FF00695C</color>
+    <color name="primary_teal_variant">#FF004D40</color>
+
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFE0E0E0</color>
+
+    <!-- High-contrast error red for dark backgrounds -->
+    <color name="error_red">#FFCF6679</color>
+</resources>

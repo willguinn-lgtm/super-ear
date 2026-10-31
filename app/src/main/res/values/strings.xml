@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Super Ear – Sound Amplifier</string>
+
+    <!-- Home screen -->
+    <string name="home_title">Super Ear</string>
+    <string name="home_subtitle">Amplify the sounds around you through your own headphones</string>
+    <string name="start_listening">Start listening</string>
+    <string name="stop_listening">Stop listening</string>
+    <string name="listening_status_active">Amplifying sound…</string>
+    <string name="listening_status_inactive">Not listening</string>
+
+    <string name="gain_label">Volume boost</string>
+    <string name="gain_value_desc">Volume boost: %1$d percent</string>
+    <string name="noise_reduction_label">Reduce background noise</string>
+    <string name="noise_reduction_desc">Smooths out hiss and steady background sounds so quieter sounds stand out</string>
+
+    <string name="headphones_required_title">Headphones needed</string>
+    <string name="headphones_required_body">Plug in wired or Bluetooth headphones before starting. Using the phone speaker will cause loud feedback squealing.</string>
+
+    <string name="mic_permission_rationale_title">Microphone access</string>
+    <string name="mic_permission_rationale_body">Super Ear needs microphone access to pick up sound and play it back, louder, through your headphones in real time. Audio is processed on your device only and is never recorded or sent anywhere unless you explicitly choose to save a clip.</string>
+    <string name="mic_permission_denied">Microphone permission is required for Super Ear to work. You can grant it in Settings.</string>
+    <string name="open_settings">Open settings</string>
+    <string name="grant_permission">Grant permission</string>
+
+    <string name="disclaimer_title">Please read before use</string>
+    <string name="disclaimer_body">Super Ear is a personal sound-amplification tool, not a medical hearing aid. If you have hearing loss, please consult a doctor or audiologist. Only use Super Ear to listen to your own surroundings — using it to listen in on other people\'s private conversations without their knowledge or consent may be illegal in your area.</string>
+    <string name="disclaimer_accept">I understand</string>
+
+    <string name="notification_channel_name">Sound amplifier running</string>
+    <string name="notification_title">Super Ear is amplifying sound</string>
+    <string name="notification_text">Tap to open • Tap Stop to turn off</string>
+    <string name="notification_stop_action">Stop</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="about_privacy">About &amp; privacy</string>
+    <string name="privacy_body">Audio you hear through Super Ear is processed live on your device and is discarded immediately after playback. Nothing is uploaded or stored unless you turn on the optional \"Save a clip\" feature.</string>
+
+    <!-- Accessibility content descriptions -->
+    <string name="cd_start_stop_button">%1$s button</string>
+    <string name="cd_gain_slider">Volume boost slider</string>
+    <string name="cd_noise_toggle">Reduce background noise toggle</string>
+    <string name="cd_app_icon">Super Ear app icon</string>
+    <string name="cd_ear_icon">Ear icon</string>
+</resources>
